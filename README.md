@@ -2,7 +2,7 @@
 
 About me:
 
-Hi, my name is Elias Tolentino. I'm a IT student and a enthusiast in data science. I started studying it in 2021 and fall in love at first sight with the possibilities that can be created transforming data into information.
+Hi, my name is Elias Tolentino. I'm an IT student and an enthusiast in data science. I started studying it in 2021 and fell in love at first sight with the possibilities of transforming data into valuable information.
 
 Sobre mim:
 
