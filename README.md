@@ -1,4 +1,21 @@
-## Hi there 👋
+## Welcome! Bem-vindo(a)! 👋
+
+About me:
+
+Hi, my name is Elias Tolentino. I'm a IT student and a enthusiast in data science. I started studying it in 2021 and fall in love at first sight with the possibilities that can be created transforming data into information.
+
+Sobre mim:
+
+Oi, meu nome é Elias Tolentino. Sou um estudante de TI e um entusiasta em Ciência de Dados. Comecei a estudar ciência de dados em 2021 e fiquei apaixonado com a área e suas possibilidades.
+
+** Formações **
+* Analise de Desenvolvimento de Sistemas - FATECSP
+* DataScience - DigitalHouse
+
+
+** Repositórios **
+Em Construção 🌱
+
 
 <!--
 **eTolentin0/eTolentin0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
