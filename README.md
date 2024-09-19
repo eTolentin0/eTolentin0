@@ -8,12 +8,12 @@ Sobre mim:
 
 Oi, meu nome é Elias Tolentino. Sou um estudante de TI e um entusiasta em Ciência de Dados. Comecei a estudar ciência de dados em 2021 e fiquei apaixonado com a área e suas possibilidades.
 
-** Formações **
+**Formações:**
 * Analise de Desenvolvimento de Sistemas - FATECSP
 * DataScience - DigitalHouse
 
 
-** Repositórios **
+**Repositórios:**
 Em Construção 🌱
 
 
