@@ -1,4 +1,4 @@
-## Welcome! Bem-vindo(a)! 👋
+## Bem-vindo(a)! 👋
 
 About me:
 
